@@ -1,0 +1,33 @@
+<resources>
+    <!--<string name="app_name">MyFirstApplication</string>-->
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="success">保存成功</string>
+    <string name="fail">保存失败</string>
+    <string name="imagepath">图片地址:</string>
+    <string name="error">获取图片失败</string>
+    <string name="pagepath">网页地址</string>
+    <string name="pageerror">获取网页内容失败</string>
+    <string name="standard">启动standard模式Activity</string>
+    <string name="singletop1">启动singletop模式Activity</string>
+    <string name="singletop2">singletop模式Activity</string>
+
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="reset">重播</string>
+    <string name="stop">停止</string>
+    <string name="title">音乐文件</string>
+    <string name="filenoexits">没有发现音频文件</string>
+    <string name="continues">继续</string>
+
+    //国际化
+    <string name="app_name">i18n</string>
+    <string name="name">name</string>
+    <string name="button">add</string>
+
+
+
+
+
+</resources>
